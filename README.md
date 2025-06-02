@@ -38,6 +38,7 @@ Enable seamless navigation across modules (Dashboard, Orders, Products, Customer
 
 This dashboard serves as a single source of truth for Blinkit’s business operations team—empowering them to take faster, smarter, and more informed actions in a highly dynamic e-commerce environme
 
-Dahboard preview :
+Dashboard preview : 
 
-https://github.com/keshav301104/Blinkit-Dashboard/blob/main/Blinkit%20Dasboard.png
+![Dashboard Preview](https://github.com/keshav301104/Blinkit-Dashboard/blob/main/Blinkit%20Dasboard.png?raw=true)
+

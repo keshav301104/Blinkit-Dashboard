@@ -24,17 +24,17 @@ Goal of the Dashboard
 
 The goal of the Blinkit Admin Dashboard is to provide a visually structured, data-driven, and user-friendly interface that enables Blinkit’s internal teams to efficiently monitor and manage business operations in real time. Specifically, the dashboard is designed to:
 
-Centralize key performance indicators (KPIs) such as revenue, profit, total orders, and pending deliveries into a cohesive top-level summary for instant visibility.
+- Centralize key performance indicators (KPIs) such as revenue, profit, total orders, and pending deliveries into a cohesive top-level summary for instant visibility.
 
-Support day-to-day operational workflows by providing detailed views of individual orders, their delivery status, payment methods, and associated customer profiles.
+- Support day-to-day operational workflows by providing detailed views of individual orders, their delivery status, payment methods, and associated customer profiles.
 
-Improve inventory oversight through a streamlined product management section that allows users to track product availability, pricing, and perform direct actions like editing or deleting items.
+- Improve inventory oversight through a streamlined product management section that allows users to track product availability, pricing, and perform direct actions like editing or deleting items.
 
-Enhance customer relationship management by presenting high-value customer data, such as order frequency and total revenue contribution, in an accessible format.
+- Enhance customer relationship management by presenting high-value customer data, such as order frequency and total revenue contribution, in an accessible format.
 
-Facilitate proactive decision-making by surfacing critical information (e.g., payment pending, low stock) and reducing the need for cross-platform data gathering.
+- Facilitate proactive decision-making by surfacing critical information (e.g., payment pending, low stock) and reducing the need for cross-platform data gathering.
 
-Enable seamless navigation across modules (Dashboard, Orders, Products, Customers, Transactions) via an intuitive sidebar menu for increased operational efficiency.
+- Enable seamless navigation across modules (Dashboard, Orders, Products, Customers, Transactions) via an intuitive sidebar menu for increased operational efficiency.
 
 This dashboard serves as a single source of truth for Blinkit’s business operations team—empowering them to take faster, smarter, and more informed actions in a highly dynamic e-commerce environme
 

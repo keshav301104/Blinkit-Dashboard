@@ -1,7 +1,7 @@
 # Blinkit-Dashboard
 ⚡ Blinkit Admin Dashboard: Real-Time Commerce & Operations Monitoring
 
-An intuitive, high-visibility analytics and management dashboard built for Blinkit’s internal teams to streamline performance tracking, customer management, inventory flow, and financial summaries—all.
+An intuitive, high-visibility analytics and management dashboard built for Blinkit’s internal teams to streamline performance tracking, customer management, inventory flow, and financial summaries.
 
 ## Short Description
 

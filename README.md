@@ -41,7 +41,7 @@ The goal of the Blinkit Admin Dashboard is to provide a visually structured, dat
 
 - Enable seamless navigation across modules (Dashboard, Orders, Products, Customers, Transactions) via an intuitive sidebar menu for increased operational efficiency.
 
-This dashboard serves as a single source of truth for Blinkit’s business operations team—empowering them to take faster, smarter, and more informed actions in a highly dynamic e-commerce environme
+This dashboard serves as a single source of truth for Blinkit’s business operations team—empowering them to take faster, smarter, and more informed actions in a highly dynamic e-commerce environment.
 
 ## Dashboard preview : 
 
